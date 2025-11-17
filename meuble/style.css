@@ -57,7 +57,7 @@ body{
     border: 2px;
 }
 #second .entête{
-    background-image: url(spacejoy-9M66C_w_ToM-unsplash.jpg);
+    background-image: url(image/spacejoy-9M66C_w_ToM-unsplash.jpg);
     background-repeat: no-repeat;
     background-position: 0% ;
     background-size: cover;
@@ -158,7 +158,7 @@ body{
 #second .middle .picture .KITCHEN{
     margin-right: 40px;
     margin-left: 30px;
-    background-image:url(sosey-interiors-YABErdnJPGc-unsplash.jpg) ;
+    background-image:url(image/sosey-interiors-YABErdnJPGc-unsplash.jpg) ;
     width: 250px;
     height: 400px;
     background-size: cover;
@@ -168,7 +168,7 @@ body{
 #second .middle .picture .BEDROOM{
     margin-right: 40px;
     margin-left: 30px;
-    background-image:url(francesca-tosolini-hCU4fimRW-c-unsplash.jpg) ;
+    background-image:url(image/francesca-tosolini-hCU4fimRW-c-unsplash.jpg) ;
     width: 250px;
     height: 400px;
     background-size: cover;
@@ -177,7 +177,7 @@ body{
 #second .middle .picture .BATHROOM{
     margin-right: 40px;
     margin-left: 30px;
-    background-image:url(phil-hearing-U7PitHRnTNU-unsplash.jpg) ;
+    background-image:url(image/phil-hearing-U7PitHRnTNU-unsplash.jpg) ;
     width: 250px;
     height: 400px;
     background-size: cover;
@@ -186,7 +186,7 @@ body{
 #second .middle .picture .OFFICE{
     margin-right: 40px;
     margin-left: 30px;
-    background-image:url(collov-home-design-UUsQk_9bdR8-unsplash.jpg) ;
+    background-image:url(image/collov-home-design-UUsQk_9bdR8-unsplash\ -\ Copie.jpg) ;
     width: 250px;
     height: 400px;
     background-size: cover;
