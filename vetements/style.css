@@ -1,0 +1,212 @@
+/* les options */
+.premier .acceuil{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: -5px;
+}
+.premier .acceuil .right{
+    text-decoration: none;
+    margin-left: 400px;
+    margin-top: 25px;
+}
+.premier .acceuil .right a{
+    margin-left: 40px;
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+}
+/* curseur */
+.premier .acceuil .right a:hover{
+    color: red;
+    cursor: pointer;
+}
+.premier .acceuil .left{
+    color: blue;
+    font-style: italic;
+    margin-bottom: 10px;
+    margin-top: -10px;
+}
+/* ligne */
+hr{
+    margin-top: -30px;
+}
+/* paragraphe au-dessous de la ligne */
+p{
+    text-align: center;
+    margin-top: 0px;
+}
+/* Première photo */
+.titre{
+    text-align: center;
+    background-color: rgb(180, 180, 240);
+}
+.titre .sary img{
+    width: 1496px;
+    height: 1000px;
+}
+.titre .texte h1{
+    margin-top: -10px;
+}
+.titre .texte button{
+    margin-bottom: 10px;
+}
+/* ligne */
+.ligne{
+    display: flex;
+    align-items: center;
+}
+.ligne::before,
+.ligne::after{
+    content: "";
+    flex: 1;
+    border-bottom: 1px solid #000;
+}
+.ligne span{
+    margin: 15px 15px;
+}
+/* deuxième photo */
+.categorie .image img{
+    height: 500px;
+    width: 400px;
+    margin-left: 40px;
+    margin-right: 30px;
+}
+.categorie .image{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.categorie .textes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.categorie .textes p{
+    margin-top: 10px;
+    margin-left: 200px;
+}
+.categorie .textes .b{
+    margin-right: 00px;
+}
+.categorie .textes .c{
+    margin-right: 200px;
+}
+
+.categorie .boutton{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.categorie .boutton .a{
+    margin-left: 180px;
+}
+.categorie .boutton .b{
+    margin-right: 00px;
+}
+.categorie .boutton .c{
+    margin-right: 180px;
+}
+/* produits récent */
+.ligne2{
+    display: flex;
+    align-items: center;
+}
+.ligne2::before,
+.ligne2::after{
+    content: "";
+    flex: 1;
+    border-bottom: 1px solid #000;
+}
+.ligne2 span{
+    margin: 70px 15px;
+    margin-top: 70px;
+}
+.produits .photo{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.produits .photo img{
+    height: 500px;
+    width: 400px;
+    margin-left: 40px;
+    margin-right: 30px;
+    margin-top: -50px;
+
+}
+.produits .article{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.produits .article{
+    margin-top: 10px;
+    margin-left: 200px;
+}  
+.produits .article .b{
+    margin-right: 10px;
+}
+.produits .article .c{
+    margin-right: 200px;
+}
+.produits .boutons{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.produits .boutons .a{
+    margin-left: 160px;
+}
+.produits .boutons .c{
+    margin-right: 150px;
+}
+.contactez-nous .contact-form{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    border: 1px solid #000;
+    border-radius: 15px;
+    background-color: #d7e9f5;
+    margin-left: 460px;
+}
+.contactez-nous .contact-form label{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.contactez-nous .contact-form input{
+    margin: 10px 10px;    
+}
+.contactez-nous .contact-form textarea{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.contactez-nous .contact-form button{
+    margin: 10px 150px;
+}
+.contactez-nous h2{
+    text-align: center;
+    margin-top: -50px;
+}
+.ligne3{
+    display: flex;
+    align-items: center;
+}
+.ligne3::before,
+.ligne3::after{
+    content: "";
+    flex: 1;
+    border-bottom: 1px solid #000;
+}
+.ligne3 span{
+    margin: 60px 15px;
+    margin-top: 60px;
+}
+
+
+
+
+
+
+
+
+
