@@ -1,0 +1,8 @@
+nav .menu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+nav .menu a{
+    text-decoration: none;
+}
