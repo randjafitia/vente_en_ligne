@@ -1,0 +1,67 @@
+.entête .titre  h1{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    color: black;
+}
+.entête .titre {
+    text-align: center;
+    color: black;
+    background-image: url(pmv-chamara-dMjkQJs58uo-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position:0%;
+    background-size: cover;
+    height: 300px;
+}
+.title h1{
+     text-align: center;
+
+}
+
+.entête .title img{
+    width: 290px;
+    height: 290px;
+    margin-left: 15px;
+}
+
+.entête .title .img {
+     display: flex;
+     margin-left: 3px;
+}
+ 
+.entête .Nouveau{
+    text-align: left;
+    color: black;
+    background-image: url(kadarius-seegars-Mxy5gokl8mE-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: 0%;
+    background-size: cover;
+    height: 400px;
+}
+
+.entête .Nouveau img{
+    width: 0px;
+    height: 0px;
+    margin-right: 70%;
+}
+
+.entête .Nouveau-titre{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: lightslategrey;
+}
+
+.entête .Nouveau-titre .petit-titre{
+    margin-right: 300px;
+}
+
+.entête .Nouveau-titre img{
+    width: 150px;
+    height: 150px;
+}
+
+    
+
+
+
+    
