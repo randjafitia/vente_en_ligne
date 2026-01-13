@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 html, body
 {
     background-color: white;
@@ -32,3 +33,13 @@ img
     z-index: 1;
 }
 
+=======
+nav .menu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+nav .menu a{
+    text-decoration: none;
+}
+>>>>>>> 927de4270ef72e919752f1245870202ec61d8212
