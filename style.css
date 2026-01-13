@@ -1,0 +1,34 @@
+html, body
+{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+p
+{
+    color: black;
+}
+h1
+{
+    color: black;
+}
+h2
+{
+    color: brown;
+}
+img
+{
+    border-radius: 10px;
+}
+.hero-bg {
+  background-image: url("Apple\ evaluated\ world’s\ most\ valued\ brand\ Apple….jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.hero-bg, .hero-bg img {
+    position: relative;
+    z-index: 1;
+}
+
